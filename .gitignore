@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room REST Service (Kotlin)/task/build/
+/Cinema Room REST Service (Kotlin)/task/build/classes/java/test/
